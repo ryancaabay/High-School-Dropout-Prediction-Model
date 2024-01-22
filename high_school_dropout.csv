@@ -1,0 +1,101 @@
+grade_level,gender,family_structure,parental_education,parental_occupation,family_income,geographic_location,student_teacher_ratio,school_funding,access_to_early_childhood_edu,access_to_extracurricular,access_to_technology,student_allowance,dropout_likelihood
+Grade 10,Male,Two-parent,High School,Blue-collar,High Income,Urban,Middle,Middle,True,False,True,Middle,False
+Grade 10,Male,Extended family,Elementary,White-collar,High Income,Urban,Middle,Low,False,True,False,Middle,False
+Grade 10,Female,Two-parent,High School,Unemployed,Middle Class,Rural,Middle,Low,True,True,True,Middle,False
+Grade 8,Female,Two-parent,High School,Unemployed,High Income,Urban,Low,Middle,False,True,True,Low,True
+Grade 7,Female,Two-parent,High School,Blue-collar,Low Income,Rural,Low,Middle,False,True,True,Middle,True
+Grade 10,Female,Extended family,College,Blue-collar,Middle Class,Rural,Middle,Low,True,False,True,Low,False
+Grade 10,Female,Two-parent,Elementary,Blue-collar,Middle Class,Suburban,Middle,Low,True,True,True,Low,True
+Grade 7,Male,Two-parent,Elementary,Unemployed,Middle Class,Urban,Middle,Low,True,False,False,High,False
+Grade 8,Female,Two-parent,High School,Unemployed,Low Income,Urban,Low,Middle,False,False,True,High,True
+Grade 7,Female,Two-parent,Elementary,Blue-collar,Middle Class,Urban,Middle,High,True,True,False,High,False
+Grade 9,Female,Two-parent,College,Blue-collar,High Income,Urban,High,Middle,True,False,False,Middle,False
+Grade 10,Male,Two-parent,High School,White-collar,Low Income,Rural,High,Middle,True,False,False,Low,True
+Grade 9,Female,Two-parent,Elementary,Blue-collar,Middle Class,Urban,Middle,High,True,True,False,High,False
+Grade 9,Male,Two-parent,Elementary,Blue-collar,High Income,Suburban,Middle,Middle,True,False,True,Middle,True
+Grade 9,Female,Extended family,Elementary,White-collar,Low Income,Suburban,Middle,Middle,True,False,True,Low,True
+Grade 10,Male,Two-parent,High School,Unemployed,High Income,Urban,High,High,True,True,True,Low,True
+Grade 7,Male,Two-parent,High School,White-collar,Middle Class,Rural,Low,Low,True,False,False,High,False
+Grade 8,Female,Two-parent,College,Blue-collar,Middle Class,Suburban,Middle,High,False,True,True,Middle,True
+Grade 9,Male,Two-parent,Elementary,Blue-collar,High Income,Rural,High,Middle,True,True,True,Low,True
+Grade 8,Male,Two-parent,College,White-collar,Middle Class,Rural,Middle,Middle,False,False,False,Low,True
+Grade 9,Male,Two-parent,High School,Blue-collar,High Income,Suburban,Middle,High,True,False,True,Low,True
+Grade 10,Female,Two-parent,Elementary,White-collar,High Income,Suburban,Low,High,True,False,False,High,True
+Grade 8,Male,Two-parent,College,Blue-collar,High Income,Suburban,High,Low,True,True,True,Middle,True
+Grade 9,Female,Two-parent,High School,Blue-collar,Middle Class,Rural,High,Low,False,False,True,Middle,True
+Grade 9,Male,Two-parent,High School,Unemployed,Middle Class,Urban,Middle,High,True,False,False,Low,False
+Grade 10,Male,Two-parent,College,Blue-collar,Middle Class,Urban,Low,Middle,False,True,False,Middle,False
+Grade 10,Female,Extended family,High School,White-collar,Middle Class,Rural,Middle,Middle,True,True,True,High,False
+Grade 7,Male,Two-parent,High School,Blue-collar,Middle Class,Suburban,High,Middle,True,False,True,Low,True
+Grade 8,Female,Two-parent,College,Blue-collar,Middle Class,Suburban,Middle,High,True,False,False,Middle,False
+Grade 10,Male,Two-parent,College,Blue-collar,Low Income,Rural,Middle,High,True,True,True,Middle,True
+Grade 10,Male,Two-parent,College,Blue-collar,Low Income,Urban,Middle,Middle,False,True,True,High,True
+Grade 8,Female,Two-parent,College,Unemployed,Middle Class,Urban,High,High,False,False,False,Low,True
+Grade 9,Female,Two-parent,College,Unemployed,Low Income,Rural,High,High,False,True,True,Low,False
+Grade 7,Female,Two-parent,Elementary,White-collar,Middle Class,Suburban,Middle,Middle,True,True,True,Middle,False
+Grade 8,Female,Two-parent,High School,Blue-collar,High Income,Suburban,Low,Low,False,True,True,Low,True
+Grade 10,Female,Two-parent,College,Unemployed,High Income,Urban,Low,High,True,True,False,High,False
+Grade 10,Female,Two-parent,Elementary,Unemployed,Low Income,Rural,High,High,False,True,True,Middle,False
+Grade 7,Female,Two-parent,High School,White-collar,Middle Class,Urban,Low,Middle,True,True,True,Low,False
+Grade 8,Male,Two-parent,Elementary,White-collar,Low Income,Suburban,Low,Middle,False,True,False,High,True
+Grade 7,Male,Two-parent,College,Unemployed,Middle Class,Rural,Middle,Low,True,True,False,Middle,True
+Grade 10,Male,Extended family,College,White-collar,Low Income,Suburban,Middle,Middle,True,True,True,Low,False
+Grade 8,Female,Two-parent,Elementary,Blue-collar,Middle Class,Suburban,Low,Middle,True,False,False,Middle,True
+Grade 10,Male,Two-parent,High School,Unemployed,High Income,Suburban,High,Middle,True,True,False,Middle,False
+Grade 10,Male,Two-parent,High School,Blue-collar,Middle Class,Rural,Low,High,True,False,False,Middle,False
+Grade 10,Female,Two-parent,Elementary,White-collar,High Income,Urban,Middle,Low,False,True,True,High,False
+Grade 10,Female,Two-parent,College,Unemployed,Middle Class,Rural,Middle,High,True,True,True,High,False
+Grade 8,Male,Two-parent,Elementary,Blue-collar,Middle Class,Urban,Middle,High,False,False,True,Low,False
+Grade 7,Male,Extended family,College,White-collar,Middle Class,Suburban,Middle,Middle,False,False,True,Middle,False
+Grade 7,Female,Two-parent,College,Blue-collar,Middle Class,Suburban,Middle,Middle,True,False,True,Low,False
+Grade 7,Female,Two-parent,High School,White-collar,Middle Class,Urban,High,High,False,False,False,Middle,False
+Grade 9,Male,Two-parent,High School,White-collar,Low Income,Rural,Low,Middle,True,False,True,High,True
+Grade 8,Female,Extended family,High School,White-collar,Middle Class,Urban,High,Low,True,True,True,High,False
+Grade 10,Female,Two-parent,Elementary,White-collar,High Income,Urban,Middle,Low,True,True,False,Low,True
+Grade 10,Female,Two-parent,High School,Blue-collar,High Income,Rural,Middle,Low,True,True,True,High,False
+Grade 10,Male,Two-parent,High School,White-collar,Middle Class,Rural,Middle,High,True,False,False,Middle,True
+Grade 8,Female,Two-parent,Elementary,White-collar,Middle Class,Urban,Low,Middle,True,True,False,Low,True
+Grade 9,Female,Two-parent,College,Blue-collar,Middle Class,Rural,Middle,Middle,True,True,True,High,True
+Grade 7,Female,Two-parent,Elementary,White-collar,High Income,Urban,Middle,Low,False,False,False,Middle,False
+Grade 7,Female,Extended family,Elementary,White-collar,Middle Class,Suburban,Middle,Middle,False,True,True,Low,False
+Grade 7,Male,Two-parent,High School,Unemployed,High Income,Urban,High,Middle,True,True,True,Low,False
+Grade 8,Male,Two-parent,High School,White-collar,Low Income,Urban,Low,Low,True,True,True,Low,True
+Grade 8,Male,Single-parent,High School,Unemployed,Middle Class,Suburban,Middle,Middle,False,False,False,High,False
+Grade 8,Female,Two-parent,Elementary,White-collar,Middle Class,Urban,Middle,Middle,True,False,True,High,False
+Grade 8,Female,Single-parent,High School,White-collar,Low Income,Suburban,Middle,Middle,True,False,True,Middle,False
+Grade 7,Male,Two-parent,High School,Blue-collar,Low Income,Suburban,Middle,Middle,False,False,True,High,True
+Grade 9,Male,Two-parent,Elementary,Unemployed,Low Income,Urban,Low,Middle,True,True,False,Low,False
+Grade 7,Male,Extended family,High School,Blue-collar,Middle Class,Rural,Middle,Middle,True,False,True,Low,False
+Grade 7,Male,Single-parent,Elementary,Blue-collar,Middle Class,Rural,Middle,Low,True,False,True,Middle,True
+Grade 10,Male,Two-parent,High School,Unemployed,Low Income,Rural,Low,Low,True,True,False,Middle,True
+Grade 10,Female,Two-parent,High School,Unemployed,Middle Class,Suburban,Low,Middle,False,True,False,High,False
+Grade 8,Female,Two-parent,High School,White-collar,Middle Class,Urban,Middle,Middle,True,True,False,High,False
+Grade 7,Female,Two-parent,High School,Unemployed,Low Income,Suburban,Middle,High,False,True,True,Low,False
+Grade 9,Male,Two-parent,College,White-collar,Middle Class,Urban,High,Low,False,True,True,Low,True
+Grade 7,Female,Two-parent,High School,Blue-collar,High Income,Urban,High,High,True,True,True,Low,False
+Grade 8,Male,Two-parent,High School,Blue-collar,Middle Class,Rural,Middle,High,True,True,True,Low,False
+Grade 9,Male,Two-parent,Elementary,Unemployed,High Income,Suburban,Low,Middle,True,False,False,Middle,False
+Grade 8,Female,Single-parent,High School,Unemployed,Middle Class,Suburban,Middle,Middle,True,False,True,High,False
+Grade 9,Female,Two-parent,Elementary,Blue-collar,Low Income,Rural,Middle,High,True,True,True,Low,True
+Grade 10,Male,Extended family,Elementary,Unemployed,Middle Class,Urban,Middle,Low,False,False,True,Low,False
+Grade 8,Male,Two-parent,Elementary,Unemployed,Low Income,Rural,Middle,Low,True,True,False,High,True
+Grade 7,Female,Two-parent,High School,Blue-collar,Middle Class,Rural,Low,Middle,True,False,False,High,False
+Grade 10,Female,Two-parent,High School,White-collar,High Income,Rural,Middle,Low,True,False,True,Low,True
+Grade 7,Female,Two-parent,High School,Blue-collar,Middle Class,Suburban,Middle,Low,True,False,True,Low,False
+Grade 8,Male,Two-parent,College,White-collar,Low Income,Suburban,Low,Middle,True,True,True,Low,True
+Grade 10,Male,Two-parent,High School,Blue-collar,High Income,Rural,High,Middle,True,False,True,Middle,True
+Grade 10,Male,Two-parent,High School,White-collar,High Income,Urban,Low,High,True,True,False,High,True
+Grade 7,Female,Extended family,High School,Unemployed,Low Income,Rural,Middle,Middle,False,True,False,Low,True
+Grade 8,Female,Two-parent,College,Blue-collar,High Income,Suburban,Low,Middle,False,True,True,Low,True
+Grade 7,Male,Extended family,High School,White-collar,Middle Class,Urban,Low,Low,True,True,False,Low,True
+Grade 8,Female,Extended family,Elementary,Blue-collar,Middle Class,Suburban,Middle,Middle,True,True,False,Low,False
+Grade 8,Female,Two-parent,High School,White-collar,Middle Class,Suburban,High,High,True,False,False,High,False
+Grade 7,Female,Two-parent,High School,Unemployed,Middle Class,Urban,Middle,Low,True,True,False,Middle,False
+Grade 7,Female,Two-parent,High School,White-collar,Middle Class,Urban,Low,High,True,True,False,Low,True
+Grade 8,Female,Two-parent,College,Blue-collar,Middle Class,Suburban,Low,Middle,True,False,True,High,False
+Grade 7,Female,Two-parent,High School,Blue-collar,Middle Class,Suburban,Low,High,True,False,False,Middle,False
+Grade 7,Male,Two-parent,College,White-collar,High Income,Suburban,Middle,Low,True,True,False,Low,True
+Grade 9,Female,Two-parent,High School,Blue-collar,Middle Class,Rural,Middle,High,False,False,True,Low,False
+Grade 9,Female,Two-parent,College,White-collar,Low Income,Rural,Low,Middle,False,True,False,High,False
+Grade 7,Male,Two-parent,High School,Unemployed,Middle Class,Rural,Middle,High,False,True,True,Middle,False
+Grade 9,Female,Extended family,College,Blue-collar,High Income,Urban,High,Middle,True,False,False,Low,True
