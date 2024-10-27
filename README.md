@@ -1,11 +1,11 @@
 # High-School-Dropout-Prediction-Model
 
 <p align="center">
-  <img src="high_school_dropout_predictor" width="480">
+  <img src="high_school_dropout_predictor.png" width="480">
 </p>
 
 <p align="center">
-  <img src="prediction" width="480">
+  <img src="prediction.png" width="480">
 </p>
 
 Authors: [Jerome Bercero](https://www.linkedin.com/in/jerome-esguerra-bercero/) · [Ryan Caabay](https://www.linkedin.com/in/ryancaabay/) · [Ezekiel Morales](https://www.linkedin.com/in/ezekiel-morales-b06383266/)
