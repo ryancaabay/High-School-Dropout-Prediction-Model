@@ -2,6 +2,9 @@
 
 <p align="center">
   <img src="high_school_dropout_predictor" width="480">
+</p>
+
+<p align="center">
   <img src="prediction" width="480">
 </p>
 
