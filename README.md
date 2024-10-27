@@ -2,7 +2,7 @@
 
 <table align="center">
   <tr>
-    <td><img src="images/high_school_dropout_predictor.png" height="300"></td>
+    <td><img src="images/high_school_dropout_predictor.png" height="360"></td>
     <td><img src="images/prediction.png" height="120"></td>
   </tr>
 </table>
