@@ -1,12 +1,11 @@
 # High School Dropout Prediction Model
 
-<p align="center">
-  <img src="images/high_school_dropout_predictor.png" height="240">
-</p>
-
-<p align="center">
-  <img src="images/prediction.png" height="60">
-</p>
+<table align="center">
+  <tr>
+    <td><img src="images/high_school_dropout_predictor.png" height="300"></td>
+    <td><img src="images/prediction.png" height="120"></td>
+  </tr>
+</table>
 
 Authors: [Jerome Bercero](https://www.linkedin.com/in/jerome-esguerra-bercero/) · [Ryan Caabay](https://www.linkedin.com/in/ryancaabay/) · [Ezekiel Morales](https://www.linkedin.com/in/ezekiel-morales-b06383266/)
 
